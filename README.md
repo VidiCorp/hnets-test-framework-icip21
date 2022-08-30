@@ -51,6 +51,7 @@ main.py -> The application file that brings the framework together and allows th
 Citation
 Please use the following form when citing this work:
 
+
 @inproceedings{minskiy2021scattering,
   title={Scattering-Based Hybrid Networks: An Evaluation and Design Guide},
   author={Minskiy, Dmitry and Bober, Miroslaw},
